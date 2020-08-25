@@ -1,0 +1,20 @@
+[submodule "documentation/guides/BagTest"]
+	path = documentation/guides/BagTest
+	url = https://github.com/VentilatorsInPeoria/BagTest.git
+	branch = master
+[submodule "documentation/guides/learn_arduino-mega2560"]
+	path = documentation/guides/learn_arduino-mega2560
+	url = https://github.com/VentilatorsInPeoria/learn_arduino-mega2560.git
+	branch = master
+[submodule "support-tools/arduino-cli"]
+	path = support-tools/arduino-cli
+	url = https://github.com/arduino/arduino-cli.git
+	branch = master
+[submodule "sources/BagTest"]
+	path = sources/BagTest
+	url = https://github.com/VentilatorsInPeoria/BagTest.git
+	branch = master
+[submodule "source-code/BagTest"]
+	path = source-code/BagTest
+	url = https://github.com/VentilatorsInPeoria/BagTest.git
+	branch = master

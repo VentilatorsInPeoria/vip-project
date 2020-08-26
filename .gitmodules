@@ -18,3 +18,23 @@
 	path = source-code/BagTest
 	url = https://github.com/VentilatorsInPeoria/BagTest.git
 	branch = master
+[submodule "data/BagTest-data"]
+	path = data/BagTest-data
+	url = https://github.com/VentilatorsInPeoria/BagTest-data.git
+	branch = master
+[submodule "documentation/BagTest-documentation"]
+	path = documentation/BagTest-documentation
+	url = https://github.com/VentilatorsInPeoria/BagTest-documentation.git
+	branch = master
+[submodule "source-code/pyBagPlot"]
+	path = source-code/pyBagPlot
+	url = https://github.com/VentilatorsInPeoria/pyBagPlot
+	branch = master
+[submodule "data/pyBagPlot-data"]
+	path = data/pyBagPlot-data
+	url = https://github.com/VentilatorsInPeoria/pyBagPlot-data
+	branch = master
+[submodule "documentation/pyBagPlot-documentation"]
+	path = documentation/pyBagPlot-documentation
+	url = https://github.com/VentilatorsInPeoria/pyBagPlot-documentation
+	branch = master
